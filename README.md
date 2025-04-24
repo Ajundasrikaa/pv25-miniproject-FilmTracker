@@ -46,3 +46,10 @@ Aplikasi ini dibangun **tanpa menggunakan Qt Designer**, semua komponen GUI dibu
 - `QFont`, `setStyleSheet`, `Unicode`
 
 ---
+
+### Berikut Tampilan Aplikasi
+# ![image](https://github.com/user-attachments/assets/9953cb11-c41d-4e4f-bfb3-93f7557aed5a)
+
+#![image](https://github.com/user-attachments/assets/5b0907d0-252c-4428-8014-810967efdc1c)
+
+#
