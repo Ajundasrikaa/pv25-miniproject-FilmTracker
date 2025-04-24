@@ -50,6 +50,17 @@ Aplikasi ini dibangun **tanpa menggunakan Qt Designer**, semua komponen GUI dibu
 ### Berikut Tampilan Aplikasi
 # ![image](https://github.com/user-attachments/assets/9953cb11-c41d-4e4f-bfb3-93f7557aed5a)
 
-#![image](https://github.com/user-attachments/assets/5b0907d0-252c-4428-8014-810967efdc1c)
+# ![image](https://github.com/user-attachments/assets/5b0907d0-252c-4428-8014-810967efdc1c)
 
-#
+# ![image](https://github.com/user-attachments/assets/858fb03f-6e9e-475a-982f-fe1e259233c4)
+
+# ![image](https://github.com/user-attachments/assets/6c33cd22-ea57-42ee-a8b2-a6f8c45eb7c4)
+
+# ![image](https://github.com/user-attachments/assets/ee093376-24e4-4e62-96b0-dc5601637d58)
+
+# ![image](https://github.com/user-attachments/assets/8bbe1249-60ab-4bb8-ac04-dfb3015a2e98)
+
+# ![image](https://github.com/user-attachments/assets/ca4d91b8-22c7-4674-9f33-75b5e19ba3c7)
+
+
+
